@@ -1,5 +1,3 @@
--- We update scripts everyday make sure to join
--- Join the discord https://discord.gg/9RPtJvHVGz
 local plrs = game:GetService("Players")
 local rs = game:GetService("RunService")
 local uis = game:GetService("UserInputService")
@@ -78,6 +76,3 @@ rs.RenderStepped:Connect(function()
         end
     end
 end)
-
-
--- Made by Dmonds tweaked by InterGalactic
